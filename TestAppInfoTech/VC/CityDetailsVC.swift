@@ -82,7 +82,7 @@ class CityDetailsVC: UIViewController {
             scrollView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             scrollView.topAnchor.constraint(equalTo: view.topAnchor),
             scrollView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-            scrollView.bottomAnchor.constraint(equalTo: view.bottomAnchor)
+            scrollView.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: 30)
         ])
         
         NSLayoutConstraint.activate([
@@ -191,7 +191,7 @@ extension CityDetailsVC: UIScrollViewDelegate {
     
     func scrollHeader(with value: CGFloat) {
         header.center = view.center
-        header.center.y -= view.frame.height * 0.39
-        header.center.y -= value * 0.5
+        header.center.y -= view.frame.height * 0.39 //offset the center
+        header.center.y -= value * 0.4 //maintain lower speed for header
     }
 }

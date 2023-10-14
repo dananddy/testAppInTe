@@ -89,6 +89,7 @@ class MainViewController: UIViewController {
         tableView.register(TATableViewCell.self, forCellReuseIdentifier: "cell")
         tableView.delegate = self
         tableView.dataSource = self
+        tableView.rowHeight = 110
         
         containerView.addSubview(tableView)
         
@@ -148,6 +149,7 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
         let cellModel = TACellViewModel(cityName: city.name,
                                         image: (indexPath.row % 2 == 0 ? viewModel.image1 : viewModel.image3))
         cell.prepareCell(with: cellModel)
+        cell.selectionStyle = .none
         return cell
     }
     

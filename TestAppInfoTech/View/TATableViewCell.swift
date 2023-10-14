@@ -45,7 +45,6 @@ class TATableViewCell: UITableViewCell {
             container.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 15),
             container.topAnchor.constraint(equalTo: topAnchor, constant: 15),
             container.trailingAnchor.constraint(equalTo: trailingAnchor),
-            container.heightAnchor.constraint(greaterThanOrEqualToConstant: 60),
             container.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -15)
         ])
     }
@@ -58,7 +57,7 @@ class TATableViewCell: UITableViewCell {
         NSLayoutConstraint.activate([
             imageViewContainer.centerYAnchor.constraint(equalTo: container.centerYAnchor),
             imageViewContainer.widthAnchor.constraint(equalToConstant: 120),
-            imageViewContainer.heightAnchor.constraint(equalToConstant: 80)
+            imageViewContainer.heightAnchor.constraint(equalTo: container.heightAnchor)
         ])
     }
     
