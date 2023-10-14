@@ -1,0 +1,18 @@
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/CacheManager.swift":
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.o"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.d"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.swiftconstvalues"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.swiftdeps"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.dia"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Application/SceneDelegate.swift":
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.o"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.d"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.dia"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/StorageManager.swift":
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.swiftconstvalues"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.o"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.d"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.swiftdeps"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.dia"

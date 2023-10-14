@@ -1,0 +1,18 @@
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/Settings/TAOpenWeatherSettings.swift":
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.swiftdeps"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.d"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.o"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.swiftconstvalues"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.dia"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/VC/MainViewController.swift":
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.dia"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.d"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.swiftconstvalues"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.swiftdeps"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.o"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Navigation/AppCoordinator.swift":
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.swiftconstvalues"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.o"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.swiftdeps"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.dia"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.d"

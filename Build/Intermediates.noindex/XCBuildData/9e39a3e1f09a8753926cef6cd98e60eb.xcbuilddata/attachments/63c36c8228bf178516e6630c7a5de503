@@ -1,0 +1,198 @@
+{
+  "" : {
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TestAppInfoTech-master.dia",
+    "emit-module-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TestAppInfoTech-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TestAppInfoTech-master-emit-module.dia",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TestAppInfoTech-master.swiftdeps"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Application/AppDelegate.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Application/SceneDelegate.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Model/TACityModel.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityModel~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Model/TAWeatherModel.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Navigation/AppCoordinator.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppCoordinator~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/AppService.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppService~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/CacheManager.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CacheManager~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/NetworkService.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/NetworkService~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/Settings/TAOpenWeatherSettings.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherSettings~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/StorageManager.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/StorageManager~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAOpenWeatherAPIClient~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/VC/CityDetailsVC.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/VC/MainViewController.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/MainViewController~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/View/TACityView.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityView~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/View/TATableViewCell.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TATableViewCell~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/View/ViewModel/TACellViewModel.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACellViewModel~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/View/ViewModel/TACityDetailsViewModel.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TACityDetailsViewModel~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/View/ViewModel/TAMainVCViewModel.swift" : {
+    "const-values" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.d",
+    "diagnostics" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.dia",
+    "index-unit-output-path" : "/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.o",
+    "llvm-bc" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.bc",
+    "object" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.o",
+    "swift-dependencies" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAMainVCViewModel~partial.swiftmodule"
+  }
+}

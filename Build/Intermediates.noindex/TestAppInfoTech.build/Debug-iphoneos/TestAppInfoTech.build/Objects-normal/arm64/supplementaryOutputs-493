@@ -1,0 +1,18 @@
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Application/AppDelegate.swift":
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.d"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.dia"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/AppDelegate.o"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Model/TAWeatherModel.swift":
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.dia"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.d"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.o"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.swiftdeps"
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/TAWeatherModel.swiftconstvalues"
+"/Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/VC/CityDetailsVC.swift":
+  const-values: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.swiftconstvalues"
+  object: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.o"
+  dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.d"
+  swift-dependencies: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.swiftdeps"
+  diagnostics: "/Users/busido/Documents/TestApp/TestAppInfoTech/Build/Intermediates.noindex/TestAppInfoTech.build/Debug-iphoneos/TestAppInfoTech.build/Objects-normal/arm64/CityDetailsVC.dia"

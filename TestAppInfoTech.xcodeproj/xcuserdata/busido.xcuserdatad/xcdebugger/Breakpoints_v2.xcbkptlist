@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9442BED3-FC0F-4A25-B3EA-5154000AF2D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFE9E9D-E126-440B-ACDD-DCD326B6C485"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAppInfoTech/Navigation/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "openCityDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFFE9E9D-E126-440B-ACDD-DCD326B6C485 - ed0edefc14b5b53d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAppInfoTech.AppCoordinator.openCityDetails(for: TestAppInfoTech.TACityViewModel) -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "BFFE9E9D-E126-440B-ACDD-DCD326B6C485 - ed0edefc14b5b53d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAppInfoTech.AppCoordinator.openCityDetails(for: TestAppInfoTech.TACityViewModel) -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "BFFE9E9D-E126-440B-ACDD-DCD326B6C485 - dd7ac22073af179c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAppInfoTech.AppCoordinator.openCityDetails(for: TestAppInfoTech.TACityModel) -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchWeatherData(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 7d84041a178c01a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 87ba8807475530a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 51786ad439e545a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 272287ab34d13ba4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 7d84041a178c01a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "755">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 87ba8807475530a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 51786ad439e545a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "3FD61C2E-4E2F-4825-B262-1C766FBE1DF7 - 272287ab34d13ba4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TestAppInfoTech.TAOpenWeatherAPIClient.fetchWeatherData(for: TestAppInfoTech.ITAWeatherCity) async -&gt; ()"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/TAOpenWeatherAPIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "318">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AA7E064-D349-4A03-B5D1-51483656525E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAppInfoTech/Service/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchData(url:_:request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4AA7E064-D349-4A03-B5D1-51483656525E - 5dd11bd12a7e7509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestAppInfoTech.NetworkService.fetchData(url: Swift.String, _: Swift.String, request: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "4AA7E064-D349-4A03-B5D1-51483656525E - 5dd11bd12a7e7509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestAppInfoTech.NetworkService.fetchData(url: Swift.String, _: Swift.String, request: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "350">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A52D76E-AC54-4299-BD72-AC8B8DF5F911"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAppInfoTech/Service/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchData(url:_:request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A52D76E-AC54-4299-BD72-AC8B8DF5F911 - edab02ddba751e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestAppInfoTech.NetworkService.fetchData(url: Swift.String, _: Swift.String, request: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "6A52D76E-AC54-4299-BD72-AC8B8DF5F911 - edab02ddba751e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestAppInfoTech.NetworkService.fetchData(url: Swift.String, _: Swift.String, request: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestAppInfoTech"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busido/Documents/TestApp/TestAppInfoTech/TestAppInfoTech/Service/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
